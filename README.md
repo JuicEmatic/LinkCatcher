@@ -9,7 +9,7 @@ Up to 3 additional parameters are also displayed as plain text in new lines unde
 
 ## Why would you want to do this?
 I have on occasion accidentally clicked a link that has opened straight up in my browser.
-If you're spending any amount of time looking at malicious URLs that might suddenly come to life with one misclick, the ability to stop or continue is a nice option to have.
+If you're spending any amount of time looking at malicious URLs that might suddenly come to life with one misclick, the ability to stop or continue is a nice safety to have.
 
 You can also modify the URL on the fly before you open it any to add/remove any params or identifers.
 
