@@ -1,0 +1,20 @@
+C:\Users\nickadmin\source\repos\LinkCatcher\obj\Debug\LinkCatcher.csproj.AssemblyReference.cache
+C:\Users\nickadmin\source\repos\LinkCatcher\obj\Debug\LinkCatcher.MainForm.resources
+C:\Users\nickadmin\source\repos\LinkCatcher\obj\Debug\LinkCatcher.Properties.Resources.resources
+C:\Users\nickadmin\source\repos\LinkCatcher\obj\Debug\LinkCatcher.csproj.GenerateResource.cache
+C:\Users\nickadmin\source\repos\LinkCatcher\obj\Debug\LinkCatcher.csproj.CoreCompileInputs.cache
+C:\Users\nickadmin\source\repos\LinkCatcher\bin\Debug\LinkCatcher.exe.config
+C:\Users\nickadmin\source\repos\LinkCatcher\bin\Debug\LinkCatcher.exe
+C:\Users\nickadmin\source\repos\LinkCatcher\bin\Debug\LinkCatcher.pdb
+C:\Users\nickadmin\source\repos\LinkCatcher\obj\Debug\LinkCatcher.exe
+C:\Users\nickadmin\source\repos\LinkCatcher\obj\Debug\LinkCatcher.pdb
+D:\From Joy\homestrt_repos_4111\LinkCatcher\bin\Debug\LinkCatcher.exe.config
+D:\From Joy\homestrt_repos_4111\LinkCatcher\bin\Debug\LinkCatcher.exe
+D:\From Joy\homestrt_repos_4111\LinkCatcher\bin\Debug\LinkCatcher.pdb
+D:\From Joy\homestrt_repos_4111\LinkCatcher\obj\Debug\LinkCatcher.csproj.AssemblyReference.cache
+D:\From Joy\homestrt_repos_4111\LinkCatcher\obj\Debug\LinkCatcher.MainForm.resources
+D:\From Joy\homestrt_repos_4111\LinkCatcher\obj\Debug\LinkCatcher.Properties.Resources.resources
+D:\From Joy\homestrt_repos_4111\LinkCatcher\obj\Debug\LinkCatcher.csproj.GenerateResource.cache
+D:\From Joy\homestrt_repos_4111\LinkCatcher\obj\Debug\LinkCatcher.csproj.CoreCompileInputs.cache
+D:\From Joy\homestrt_repos_4111\LinkCatcher\obj\Debug\LinkCatcher.exe
+D:\From Joy\homestrt_repos_4111\LinkCatcher\obj\Debug\LinkCatcher.pdb
