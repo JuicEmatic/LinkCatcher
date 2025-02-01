@@ -5,7 +5,7 @@ You can then choose whether or not to continue opening the link:
 
 ![Some web 2.0 shit](/assets/images/screenshot.png  "love a good windows form")
 
-Up to 3 additional paramters are also displayed as plain text in new lines underneath the link, in the event that the link you've clicked has them.
+Up to 3 additional parameters are also displayed as plain text in new lines underneath the link, in the event that the link you've clicked has them.
 
 ## Why would you want to do this?
 I have on occasion accidentally clicked a link that has opened straight up in my browser.
