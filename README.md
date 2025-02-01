@@ -15,3 +15,4 @@ You can also modify the URL on the fly before you open it any to add/remove any 
 
 ## Installation
 To install, merge the *.reg* file to your registry and place *LinkCatcher.exe* into the *`C:\temp\trash\`* directory (create it if it doesn't exist).
+> Note that certain Chrome version upgrades will overwrite the registry key and again you will need to re-merge the key to the registry.
