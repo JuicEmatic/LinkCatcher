@@ -1,6 +1,6 @@
 # LinkCatcher 
 
-Linkcatcher handles links clicked from various applications (Outlook, Word, etc) by opening the link first in a window and then displaying the actual URL that is being sent to the browser (so far only supports Chrome).
+Linkcatcher handles links clicked from various applications (Outlook, Word, etc) by opening the link first in a window and then displaying the actual URL that is being sent to the browser (so far **only supports Chrome**).
 You can then choose whether or not to continue opening the link:
 
 ![Some web 2.0 shit](/assets/images/screenshot.png  "love a good windows form")
@@ -13,4 +13,5 @@ If you're spending any amount of time looking at malicious URLs that might sudde
 
 You can also modify the URL on the fly before you open it any to add/remove any params or identifers.
 
-To install, merge the .reg file to your registry and place LinkCatcher.exe into the *`C:\temp\trash\`* directory (create it if it doesn't exist).
+## Installation
+To install, merge the *.reg* file to your registry and place *LinkCatcher.exe* into the *`C:\temp\trash\`* directory (create it if it doesn't exist).
