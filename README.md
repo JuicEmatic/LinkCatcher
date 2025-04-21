@@ -1,5 +1,5 @@
 # LinkCatcher 
-
+Another poorly written crack at solving a problem for myself in C#.  
 Linkcatcher handles links clicked from various applications (Outlook, Word, etc) by opening the link first in a window and then displaying the actual URL that is being sent to the browser (so far **only supports Chrome**).
 You can then choose whether or not to continue opening the link:
 
